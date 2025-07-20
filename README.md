@@ -38,7 +38,12 @@ An arcade classic, **Asteroids**, built using Python and Pygame. Fly, rotate, an
 | W / ↑ | Move forward | 
 | S / ↓ | Move backward | 
 | Space | Shoot a laser bullet | 
-| ESC | (Suggested) Exit game |
+| ESC | Exit game |
+---
+## Requirements
+
+- Python installed (I used Python 3.11, but it works on almost every python version)
+
 ---
 ## 🔧 Installation & Run
 1. Clone the repo:
