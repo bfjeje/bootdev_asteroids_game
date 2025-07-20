@@ -37,7 +37,7 @@ def main():
                 sys.exit()
             for bullet in shots:
                 if a.did_collide(bullet):
-                    a.kill()
+                    a.split()
                     bullet.kill()
                     break
         for d in drawable:
